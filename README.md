@@ -1,13 +1,7 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+Welcome to my portfolio website!
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This portfolio website was made purely from html/css/javascript inspired by https://www.youtube.com/watch?v=27JtRAI3QO8&t=2815s&ab_channel=Bedimcode
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+This is Sangalabror Pujianto's personal website portfolio
 
-![preview img](/preview.png)
+Thanks for passing by!
